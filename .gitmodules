@@ -5,3 +5,6 @@
 [submodule "HexAeroR"]
 	path = HexAeroR
 	url = https://github.com/euctrl-pru/hexaeror
+[submodule "nvctr"]
+	path = nvctr
+	url = https://github.com/euctrl-pru/nvctr
